@@ -1,0 +1,11 @@
+pandas
+numpy
+pydub
+moviepy
+python-ffmpeg
+
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchaudio
+
+openai-whisper==20231117
