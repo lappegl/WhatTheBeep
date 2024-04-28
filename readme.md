@@ -23,16 +23,7 @@ A "_transcription.csv" file is also created with timestamps of the openai-whispe
 
 ## Demo
 
-With flag_words.txt containing:
-```
-desperation
-been
-world
-run
-away
-```
-
-[![See Demo Video](https://img.youtube.com/vi/pEZgVcOr_XE/0.jpg)](https://www.youtube.com/watch?v=pEZgVcOr_XE)
+[![See Demo Video](https://img.youtube.com/vi/W7O0dOXlO8A/0.jpg)](https://www.youtube.com/watch?v=W7O0dOXlO8A)
 
 ## Requirements / Installation Guide
 
